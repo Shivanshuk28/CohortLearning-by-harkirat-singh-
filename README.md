@@ -1,0 +1,1 @@
+This repo is created for goodwill of remainign consistent on github also. I will be pushing my all daily updates here around the cohort which I will be foloowing by harkirat singh. Smduty guy would be around me for this 21 weeks course.
