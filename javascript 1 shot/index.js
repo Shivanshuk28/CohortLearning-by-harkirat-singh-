@@ -22,7 +22,7 @@ console.log(interestRate);
 
 
 // int this way the value of variable is changing. so instead of this
-//use const keyword.
+//use const keyword.=
 
 const interestRate=0.3;
 // interestRate=1; //this will show error , because constants can't be changed once declared.
@@ -108,3 +108,4 @@ function square(num){
 
 let number=square(2);
 console.log(number);
+console.log(square(2));
