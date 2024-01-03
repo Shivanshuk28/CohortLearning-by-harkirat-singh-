@@ -58,7 +58,7 @@ let person={
     age:30
 };
 console.log(person);
-//dot notation
+//dot notation 
 person.name='shiva';
 console.log(person.name);
 
